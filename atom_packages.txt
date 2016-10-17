@@ -1,0 +1,14 @@
+japanese-menu
+platformio-ide-terminal
+emmet
+atom-beautify
+color-picker
+pigments
+autocomplete
+file-icons
+autocomplete-paths
+minimap-git-diff
+
+atom-material-ui
+atom-material-syntax
+slack-ui
